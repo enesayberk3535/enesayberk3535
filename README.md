@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**enesayberk3535/enesayberk3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/436hhtZJQAT86nomhG/giphy.gif" align ="right" width="200" height="200">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hi there ,  I am Enes :smile:
+## Front - End Developer   (Beginner)
+
+### Reach out to me 
+
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+<br />
+<br />
+[instagram]:https://www.instagram.com/ayeberknesv2/
+[linkedin]:https://www.linkedin.com/in/eayberkbalci/
+## Tech I use 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" widht="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" widht="60" height="60">
+<br />
+<br />
+<br />
+<details>
+<summary> :bulb: GitHub Stats </summary>
+<img src="https://github-readme-stats.vercel.app/api?username=enesayberk3535&theme=radical
+"
+</details>
+<details>
+<summary> :bulb: Most Used Languages </summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
+"
+</details>
