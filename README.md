@@ -13,13 +13,12 @@
 <br />
 <br />
 
-## Tech I use 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" widht="30" height="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="30" height="30">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" widht="30" height="30">
+# Tech I use 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" widht="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" widht="60" height="60">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" widht="60" height="60">
 <br />
-<br />
-<br />
+
 <details>
 <summary> :bulb: GitHub Stats </summary>
   <img src="https://github-readme-stats.vercel.app/api?username=enesayberk3535&theme=radical"</img>
