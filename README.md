@@ -7,8 +7,8 @@
 
 ### Reach out to me 
 
-[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
-[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" </img>][instagram]
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" </img>][linkedin]
 <br />
 <br />
 [instagram]:https://www.instagram.com/ayeberknesv2/
@@ -26,6 +26,6 @@
 </details>
 <details>
 <summary> :bulb: Most Used Languages </summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact</img>
 "
 </details>
