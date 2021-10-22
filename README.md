@@ -8,8 +8,8 @@
 ### Reach out to me 
 [instagram]:https://www.instagram.com/ayeberknesv2/
 [linkedin]:https://www.linkedin.com/in/eayberkbalci/
-[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" </img>][instagram]
-[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" </img>][linkedin]
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/instagram.svg" align="left" />][instagram]
+[<img  width="32" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 <br />
 <br />
 
