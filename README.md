@@ -22,8 +22,7 @@
 <br />
 <details>
 <summary> :bulb: GitHub Stats </summary>
-<img src="https://github-readme-stats.vercel.app/api?username=enesayberk3535&theme=radical
-"
+  <img src="https://github-readme-stats.vercel.app/api?username=enesayberk3535&theme=radical"</img>
 </details>
 <details>
 <summary> :bulb: Most Used Languages </summary>
